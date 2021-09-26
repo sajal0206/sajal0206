@@ -12,6 +12,11 @@
       &#xA0;	\- Red Hat<br>
       &#xA0;	\- Ansible<br>
       &#xA0;	\- Linux<br>
+      &#xA0;	languages:<br>
+      &#xA0;	\- C-language<br>
+      &#xA0;	\- C++-language<br>
+      &#xA0;	\- java<br>
+      &#xA0;	\- Yaml<br>
   \- Contacts:<br>
     &#xA0;	\- Linkedin: www.linkedin.com/in/sajal-chandaiya-9b40501b4<br>
     &#xA0;	\- Github: github.com/sajal0206/<br>
