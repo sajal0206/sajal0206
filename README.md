@@ -13,8 +13,7 @@
       &#xA0;	\- Ansible<br>
       &#xA0;	\- Linux<br>
       &#xA0;	languages:<br>
-      &#xA0;	\- C-language<br>
-      &#xA0;	\- C++-language<br>
+      &#xA0;	\- C/C++<br>
       &#xA0;	\- java<br>
       &#xA0;	\- Yaml<br>
   \- Contacts:<br>
