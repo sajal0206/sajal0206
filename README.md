@@ -18,7 +18,7 @@
       &#xA0;	\- Yaml<br>
   \- Contacts:<br>
     &#xA0;	\- Linkedin: www.linkedin.com/in/sajal-chandaiya-9b40501b4<br>
-    &#xA0;	\- Github: github.com/sajal0206/<br>
+    &#xA0;	\- Github: https://github.com/sajal0206<br>
     &#xA0;	\- mail: guptasajal0206@gmail.com<br>
 
 <!---
