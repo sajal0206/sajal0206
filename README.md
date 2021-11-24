@@ -16,8 +16,11 @@
       &#xA0;	\- C/C++<br>
       &#xA0;	\- java<br>
       &#xA0;	\- Yaml<br>
+      &#xA0;	Cloud technologies:<br>
+      &#xA0;	\- AWS<br>
+      &#xA0;	\- OpenStack<br>
   \- Contacts:<br>
-    &#xA0;	\- Linkedin: www.linkedin.com/in/sajal-chandaiya-9b40501b4<br>
+    &#xA0;	\- Linkedin: https://www.linkedin.com/in/sajal0206/<br>
     &#xA0;	\- Github: https://github.com/sajal0206<br>
     &#xA0;	\- mail: guptasajal0206@gmail.com<br>
 
