@@ -24,6 +24,13 @@
     &#xA0;	\- Linkedin: https://www.linkedin.com/in/sajal0206/<br>
     &#xA0;	\- Github: https://github.com/sajal0206<br>
     &#xA0;	\- mail: guptasajal0206@gmail.com<br>
+\- Projects:<br>
+    &#xA0;	\- qApp: http://qapp.myartsonline.com/<br>
+    &#xA0;	\- justSearch: http://justs.myartsonline.com/<br>
+    &#xA0;	\- ITI_updated_clone_website: http://itijalaun.myartsonline.com/<br>
+    &#xA0;	\- Landing_page: http://sajal0206.github.io/selfdefense<br>
+    &#xA0;	\- Landing_page: http://sajal0206.github.io/Animation_Login_Form<br>
+    &#xA0;	\- Landing_page: http://sajal0206.github.io/Animation_Registration_Form<br>
 
 <!---
 sajal0206/sajal0206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
