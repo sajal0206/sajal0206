@@ -25,10 +25,10 @@
     &#xA0;	\- Github: https://github.com/sajal0206<br>
     &#xA0;	\- mail: guptasajal0206@gmail.com<br>
 \- Projects:<br>
+    &#xA0;	\- Tap-Tap: http://tap-tap.myartsonline.com/<br>
     &#xA0;	\- qApp: http://qapp.myartsonline.com/<br>
     &#xA0;	\- justSearch: http://justs.myartsonline.com/<br>
     &#xA0;	\- ITI_updated_clone_website: http://itijalaun.myartsonline.com/<br>
-    &#xA0;	\- ITI_updated_clone_website: http://tap-tap.myartsonline.com/<br>
     &#xA0;	\- Landing_page: http://sajal0206.github.io/selfdefense<br>
     &#xA0;	\- Landing_page: http://sajal0206.github.io/Animation_Login_Form<br>
     &#xA0;	\- Landing_page: http://sajal0206.github.io/Animation_Registration_Form<br>
