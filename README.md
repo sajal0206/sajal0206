@@ -17,6 +17,8 @@
       &#xA0;	\- Python<br>
       &#xA0;	\- java<br>
       &#xA0;	\- Yaml<br>
+      &#xA0;	\- Dart<br>
+      &#xA0;	\- Flutter<br>
       &#xA0;	Cloud technologies:<br>
       &#xA0;	\- AWS<br>
       &#xA0;	\- OpenStack<br>
